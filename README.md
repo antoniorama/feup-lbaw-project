@@ -1,8 +1,8 @@
 # lbaw23114 - *Community Connect*
 
-O ***Community Connect*** é um sistema de informação web-based que permite aos utilizadores partilharem perguntas e obterem respostas sobre diversos temas, tendo como intuito fornecer respostas para problemas comuns, num ambiente de interajuda solidária.
+**Community Connect** is a web-based information system that allows users to share questions and get answers on various topics, with the aim of providing answers to common problems in an environment of mutual support.
 
-## Instalação
+## Set up
 
 O comando para iniciar a imagem disponível no *GitLab Container Registry* (usando a base de dados de produção) é o seguinte:
 ```bash
@@ -11,19 +11,19 @@ docker run -it -p 8000:80 --name=lbaw23114 -e DB_DATABASE="lbaw23114" -e DB_SCHE
 
 ## URL
 
-O ***Community Connect*** encontra-se disponível em: https://lbaw23114.lbaw.fe.up.pt.
+***Community Connect*** is available at: https://lbaw23114.lbaw.fe.up.pt.
 
-## Credenciais
+## Credentials
 
-As credenciais para acesso ao ***Community Connect*** são as expostas na tabela abaixo.
+The credentials for accessing ***Community Connect*** are shown in the table below.
 
-| Tipo | Username | Email | Password |
+| Type | Username | Email | Password |
 | ---- | -------- | ----- | -------- |
-| Utilizador Autenticado | user | user@email.com | CCpassword |
-| Moderador | johnmod | johnmod@gmail.com | CCpassword |
-| Administrador | admin | admin@email.com | Lbaw23114 |
+| Authenticated User | user | user@email.com | CCpassword |
+| Moderator | johnmod | johnmod@gmail.com | CCpassword |
+| Administrator | admin | admin@email.com | Lbaw23114 |
 
-## Equipa
+## Team
 
 * António Henrique Martins Azevedo, up202108689@up.pt
 * António Marujo Rama, up202108801@up.pt
