@@ -4,7 +4,7 @@
 
 ## Set up
 
-O comando para iniciar a imagem disponível no *GitLab Container Registry* (usando a base de dados de produção) é o seguinte:
+The command to start the image available on the *GitLab Container Registry* (using the production database) is as follows:
 ```bash
 docker run -it -p 8000:80 --name=lbaw23114 -e DB_DATABASE="lbaw23114" -e DB_SCHEMA="lbaw23114" -e DB_USERNAME="lbaw23114" -e DB_PASSWORD="ypBZFVzH" git.fe.up.pt:5050/lbaw/lbaw2324/lbaw23114
 ```
