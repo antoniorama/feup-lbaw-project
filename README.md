@@ -1,6 +1,12 @@
-# lbaw23114 - *Community Connect*
+# Community Connect - Collaborative Q&A
 
-**Community Connect** is a web-based information system that allows users to share questions and get answers on various topics, with the aim of providing answers to common problems in an environment of mutual support.
+The goal of this project is the development of a web-based information system that allows users to share questions and get answers on various topics, with the aim of providing answers to common problems in an environment of mutual support. We used **Laravel framework** and **PostgreSQL**.
+
+<img width="1438" alt="image" src="https://github.com/antoniorama/feup-lbaw-project/assets/96125703/8dece9c9-f8cc-4ec9-b5b0-9232a1ba8125">
+
+<img width="1429" alt="image" src="https://github.com/antoniorama/feup-lbaw-project/assets/96125703/a7eb6297-963b-460d-99fe-7d98af7fd727">
+
+<img width="1438" alt="image" src="https://github.com/antoniorama/feup-lbaw-project/assets/96125703/4c85dbc7-030c-4797-9875-e84cea0b44c6">
 
 ## Set up
 
