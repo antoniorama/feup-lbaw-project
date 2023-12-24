@@ -1,4 +1,4 @@
-# Community Connect - Collaborative Q&A
+# Community Connect - Database and Web Applications Laboratory
 
 The goal of this project is the development of a web-based information system that allows users to share questions and get answers on various topics, with the aim of providing answers to common problems in an environment of mutual support. We used **Laravel framework** and **PostgreSQL**.
 
